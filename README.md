@@ -5,11 +5,14 @@
 
 ---
 
-References/Literature
+##### References/Literature
 
 [Hough Transform & nnU-NET](LIT/CinC2024-097.pdf)
+[Repo-GitHub](https://github.com/felixkrones/ECG-Digitiser)
+
 
 [Yolo BB & ResNet Classifier](LIT/CinC2024-118.pdf)
+[Repo-GitHub]()
 
 [U-Net digitisation & U-Net classifier](LIT/CinC2024-134.pdf)
 
@@ -18,3 +21,9 @@ References/Literature
 [Key ECG components segmentation](LIT/CinC2024-227.pdf)
 
 [BD detection (YOLO) + Signal segmentation nnU-Net](LIT/CinC2024-229.pdf)
+
+##### Useful links
+
+https://www.ecgguru.com/
+
+https://github.com/alphanumericslab/ecg-image-kit
