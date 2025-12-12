@@ -12,7 +12,6 @@
 
 
 [Yolo BB & ResNet Classifier](LIT/CinC2024-118.pdf)
-[Repo-GitHub]()
 
 [U-Net digitisation & U-Net classifier](LIT/CinC2024-134.pdf)
 
